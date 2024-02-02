@@ -5,7 +5,7 @@
 }
 body{
     height: 100vh;
-    background: linear-gradient(#ffd55c 50%,#5a95ff 50%);
+    background-image: linear-gradient(to right, #D4145A ,#FBB03B);
 }
 .app{
     font-size: "poppins", sans-serif;
